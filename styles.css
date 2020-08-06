@@ -1,0 +1,262 @@
+body {
+    margin: 0px 0px 0px 0px;
+    background-color: #f8f0a4;
+}
+
+h1 {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    font-family: Candara,sans-serif;
+    font-size: 56px;
+    color: teal;
+    position: relative;
+    top: 200px;
+}
+
+h2{
+    margin: 0px 0px;
+    padding: 3% 5%;
+    background-color: #00e0ff;
+    color: #212288;
+    text-align: center;
+    font-family: Candara, sans-serif;
+    font-size: 44px;
+}
+
+p.topics-list{
+    margin: 0px 0px;
+    position: relative;
+    top: 38px;
+}
+
+a{
+    text-decoration: none;
+    color: #2883c9;
+}
+
+.introduction {
+    background-color: aqua;
+    height: 600px;
+}
+
+.sub-heading {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    font-family: Candara,sans-serif;
+    font-size: 28px;
+    color: teal;
+    position: relative;
+    top: 210px;    
+}
+
+.tree-right {
+    width: 244px;
+    height: 244px;
+    position: absolute;
+    top: 350px;
+    left: 50px;
+}
+
+.tree-left {
+    width: 244px;
+    height: 244px;
+    position: absolute;
+    top: 350px;
+    right: 80px;
+}
+
+.sun {
+    width: 192px;
+    height: 192px;
+    position: absolute;
+    top: 20px;
+    right: 300px;
+}
+
+.bird {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top: 325px;
+    left: 500px;
+
+}
+
+.header {
+    height: 120px;
+    margin: 0px auto;
+    background-color: #d5e47e;
+    text-align: center;   
+    top: 0;
+    position: sticky;
+    z-index: 1;
+}
+
+.topics {
+    width: 380px;
+    margin: 50px;
+    font-family: Candara, sans-serif;
+    font-size: 40px;
+}
+
+.sections {
+    background-color: #f8f0a4;
+}
+
+.outer-div {
+    width: 60%;
+    margin: 0px auto;
+}
+
+.intro {
+    position: relative;
+    bottom: 75px;        
+}
+
+.bird-intro {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: 40px;
+    left: 70px;
+}
+
+.tree-right-intro {
+    width: 160px;
+    height: 160px;
+    position: relative;
+    left: 1250px;
+    top: 350px;
+}
+
+.self-desc {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    padding: 3% 2%;
+    color: #2883c9;
+    line-height: 1.5;
+}
+
+.self-image {
+    border-radius: 100%;
+    margin: 0px 360px;
+}
+
+.bird-skills {
+    width: 80px;
+    height: 80px;
+    position: relative;
+    left: 1200px;
+    bottom: 20px;
+}
+
+.tree-left-skills {
+    width: 160px;
+    height: 160px;
+    position: relative;
+    top: 150px;
+    left: 50px;
+}
+
+.skill {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    position: relative;
+    bottom: 70px;
+    height: 200px;
+    color: #2883c9
+}
+
+ul{
+    margin: 0px auto;
+    list-style: none;
+}
+
+li{
+    margin: 16px auto 16px;
+}
+
+.table-left{
+    display: inline-block;
+    width: 455px;
+    position: relative;
+    top: 16px;
+}
+
+.table-right{
+    display: inline-block;
+    width: 455px;
+    position: absolute;
+    right: 0px;
+    top: 16px;
+}
+
+.stars {
+    position: absolute;
+    right: 0px;
+}
+
+.hobbies-image {
+    width: 28%;
+    margin: 20px 40px;
+    background-color: lightskyblue;
+    border-radius: 100%;
+}
+
+.anime {
+    float: left;
+}
+
+.cricket {
+    float: right;
+}
+
+.soccer {
+    float: left;
+}
+
+.hobbies {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: #2883c9;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.interests-desc {
+    margin: 70px auto;
+}
+
+#contact {
+    background-color: #f8f0a4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: #2883c9;
+    height: 300px;
+}
+
+.links {
+    text-align: center;
+}
+
+.sns-link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin: 20px 20px;
+    color: rgb(16, 19, 179);
+}
+
+.footer{
+    margin: 0px 1300px;
+    width: 10%;
+    height: 30px;
+    background-color: #d5e47e;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+}
